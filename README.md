@@ -20,7 +20,7 @@ fastboot flash vendor_boot d:\YourDir\vendor_boot.img<br>
 👉Apply from ADB<br>
 👉adb sideload d:\YourDir\lineage-xx.zip<br><br>
 ❇️需求交流：<br>
-<img src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/wechat.png"> <img src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/whatsapp.png">
+<img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/wechat.png"> <img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/whatsapp.png">
 
 
 
