@@ -2,13 +2,14 @@
 专注Pixel系列的ROM，基于LineageOS，核心功能包括：5G（针对Pixel在部分国家5G NR功能受限），电话通话录音。<br><br>
 
 <b>❇️主要功能</b><br><br>
+<div style="margin-left:20px">
 1️⃣5G NR<br>
 适配机型：Pixel6<br>
 其它机型：TODO<br>
 2️⃣电话通话录音<br>
 适配机型：Pixel6<br>
 其它机型：TODO<br>
-3️⃣谷歌三件套，谷歌输入法<br><br>
+3️⃣谷歌三件套，谷歌输入法<br><br></div>
 <b>❇️刷机方法</b><br>
 <ul>
 <li>手机当前Android版本必须是16，没有请先升级或降级到谷歌官方Android版本16</li>
