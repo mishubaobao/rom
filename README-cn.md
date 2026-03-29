@@ -1,4 +1,5 @@
-主要提供Pixel，Xiaomi，Oneplus等品牌部分机型的ROM，基于LineageOS，添加功能包括：5G（针对Pixel手机在部分国家不能开启5G NR），电话通话录音，微信/WhatsApp/Messager等语音通话自动播放音频文件。
+<center><h2>Pixel ROM 5G</h2></center>
+专注Pixel系列机型的ROM，基于LineageOS，添加功能包括：5G（针对Pixel手机在部分国家不能开启5G NR），电话通话录音，微信/WhatsApp/Messager等语音通话自动播放音频文件。
 功能开发及机型适配有序进行中，以下是进度：<br><br>
 📳ROM（Android 16）<br>
 1️⃣5G NR<br>
