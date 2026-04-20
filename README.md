@@ -28,7 +28,7 @@ adb sideload d:\YourDir\lineage-xx.zip</li>
   </ul>
 <h2>❇️Discussion</h2>
 Wechat:<br>
-<img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/wecha2.png"><br>WhatsApp<br><img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/whatsapp2.png">
+<img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/wechat2.png"><br>WhatsApp<br><img style="width:150px;height:150px;" src="https://raw.githubusercontent.com/joyou-io/rom/refs/heads/main/whatsapp2.png">
 
 
 
